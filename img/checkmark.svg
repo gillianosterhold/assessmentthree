@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="10" viewBox="0 0 11 10">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 16px;
+        fill: #575153;
+        font-family: Wingdings;
+      }
+    </style>
+  </defs>
+  <text id="ü" class="cls-1" x="-1" y="11.5">ü</text>
+</svg>
